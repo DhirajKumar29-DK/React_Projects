@@ -13,7 +13,7 @@ const [text, setText] = useState("i'm the boss")
 
  
   const onViaCallSubmit = () =>{
-    console.log("I am calling you")
+    console.log("I call you")
    }
 
    const onSubmit =(event)=>{
